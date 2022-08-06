@@ -4,8 +4,8 @@
 #include <dt-bindings/input/input.h>
 #include <dt-bindings/pinctrl/qcom,pmic-gpio.h>
 / {
-	model = "Samsung Galaxy S4 Value Edition";
-	compatible = "samsung,jfvelte", "qcom,apq8064";
+	model = "Samsung Galaxy S4";
+	compatible = "samsung,jflte", "qcom,apq8064";
 
 	aliases {
 		serial0 = &gsbi7_serial;
